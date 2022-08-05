@@ -4,4 +4,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def home(request):
-    return HttpResponse("Hello, Juan Rojas!")
+    return HttpResponse("Bienvenido al sitio de Juan Rojas!")
